@@ -1,0 +1,21 @@
+#!/bin/python3
+if __name__ == '__main__':
+
+
+print("")
+
+N = int(input())
+
+if(c1 or c2 and !c3):
+	then do
+elif(c1 or c2 and !c3):
+	then do
+else:
+	do
+
+
+4//3  =  1
+4/3   =  1.333333333333333333
+
+
+for i in range(1,101):

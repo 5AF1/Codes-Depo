@@ -1,0 +1,19 @@
+git init
+
+git config --global user.name "5AF1"
+
+git config --global user.email "safi05af10rashid@gmail.com"
+
+git config --list
+
+q
+
+clear
+
+git status
+
+git add /*-file or folder er naam-*/
+
+git add --all
+
+git add . /*-^same-*/

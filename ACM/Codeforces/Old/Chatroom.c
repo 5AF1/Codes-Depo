@@ -1,0 +1,63 @@
+#include<stdio.h>
+#include<string.h>
+int main(){
+    char word[101],ch;
+    int l,i,w_i,f=0;
+    gets(word);
+    l=strlen(word);
+    ch='h';
+    for(i=0;i<l;i++){
+        if(word[i]==ch){
+            f=1;
+            w_i=i;
+            ch='e';
+            break;
+        }
+    }
+    if(f=1){
+        f=0;
+        for(i=w_i+1;i<l;i++){
+            if(word[i]==ch){
+                f=1;
+                w_i=i;
+                ch='l';
+                break;
+            }
+        }
+    }
+    if(f=1){
+        f=0;
+        for(i=w_i+1;i<l;i++){
+            if(word[i]==ch){
+                f=1;
+                w_i=i;
+                ch='l';
+                break;
+            }
+        }
+    }
+    if(f=1){
+        f=0;
+        for(i=w_i+1;i<l;i++){
+            if(word[i]==ch){
+                f=1;
+                w_i=i;
+                ch='o';
+                break;
+            }
+        }
+    }
+    if(f=1){
+        f=0;
+        for(i=w_i+1;i<l;i++){
+            if(word[i]==ch){
+                f=1;
+                break;
+            }
+        }
+    }
+    if(f==1)
+        printf("YES");
+    else
+        printf("NO");
+}
