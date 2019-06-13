@@ -34,3 +34,15 @@ esc
 :x
 
 
+
+git commit -m "/*-commit message-*/"
+
+
+
+git log
+
+git log --oneline
+
+
+
+
