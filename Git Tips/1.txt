@@ -54,5 +54,10 @@ git checkout master
 
 /*-^ returns to master-*/
 
-ballsall
+git branch /*-branch name-*/ /*- 7digit commit id-*/
+
+git checkout /*-branch name-*/
+
+
+
 
