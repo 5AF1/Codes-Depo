@@ -10,6 +10,8 @@ q
 
 clear
 
+
+
 git status
 
 git add /*-file or folder er naam-*/
@@ -17,3 +19,18 @@ git add /*-file or folder er naam-*/
 git add --all
 
 git add . /*-^same-*/
+
+
+
+
+git commit
+
+i
+
+/*-commit message-*/
+
+esc
+
+:x
+
+
