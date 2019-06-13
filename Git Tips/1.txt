@@ -43,6 +43,16 @@ git log
 
 git log --oneline
 
+/*-^shows a 7digit commit id-*/
+
+
+
+
+git checkout /*-a past 7digit commit id-*/
+
+git checkout master
+
+/*-^ returns to master-*/
 
 
 
