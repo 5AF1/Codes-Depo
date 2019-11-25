@@ -1,0 +1,5 @@
+str=input()
+str=str.split(' ')
+a=int(str[0])
+b=int(str[1])
+print(a**b-b**a)

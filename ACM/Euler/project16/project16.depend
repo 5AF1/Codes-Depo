@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563211793 source:g:\me\codes depo\acm\euler\project16\main.cpp
+	<bits/stdc++.h>
+	"number.h"
+
+1563289764 g:\me\codes depo\acm\euler\project16\number.h
+	<bits/stdc++.h>
+

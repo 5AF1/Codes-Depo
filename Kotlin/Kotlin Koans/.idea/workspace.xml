@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="853d1e30-9b4d-4b70-a65c-f2918b1e7beb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/1257B.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/489B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Codeforces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Done/1080B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Done/112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Done/1203B - Equal Rectangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Done/1248A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Done/144A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/Done/785A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/kotlinsolutions/kotlinsolutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/kotlinsolutions/src/1257A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/kotlinsolutions/src/1257B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACM/Codeforces/src/1257B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Kotlin_Koans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/java/main/META-INF/Introduction-Hello,_world!.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/java/main/TaskKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/kotlin/test/META-INF/Introduction-Hello,_world!.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/kotlin/test/TestStart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/classes/TestStart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/TEST-TestStart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/classes/java/main/JavaCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/classes/java/main/META-INF/Introduction-Java_to_Kotlin_conversion.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Java to Kotlin conversion/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.idea/Tfx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/src/main/kotlin/com/example/demo/app/MyApp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/src/main/kotlin/com/example/demo/app/Styles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tfx/src/main/kotlin/com/example/demo/view/MainView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/idk.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Pycharm/first/.idea/first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Pycharm/hellobadda/.idea/hellobadda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Pycharm/hellobadda/FCTRL - Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Pycharm/hellobadda/printing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/455A-Boredom.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Codeforces/455A-Boredom.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/999B-Reversing Encryption.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/999B-Reversing Encryption.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/The Main Debugger.depend" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/The Main Debugger.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/The Main Debugger.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/The Main Debugger.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/bin/Debug/The Main Debugger.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/bin/Debug/The Main Debugger.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Codeforces/The Main Debugger/obj/Debug/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/1.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/10.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/10.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/10.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/11.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/11.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/11.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACM/Euler/2.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACM/Euler/2.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Git Tips/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Processing/processing-3.5.3/lib/theme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Processing/processing-3.5.3/lib/theme.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TpR9TlUzNvzDLXqn4IXzqja569" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="853d1e30-9b4d-4b70-a65c-f2918b1e7beb" name="Default Changelist" comment="" />
+      <created>1574154898508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574154898508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
