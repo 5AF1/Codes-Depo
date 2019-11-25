@@ -1,0 +1,12 @@
+---change directory---
+
+cd "directory in side the drive"
+
+--change drive---
+
+cd /D G:
+
+--help cd--
+help cd
+
+

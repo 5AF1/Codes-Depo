@@ -1,0 +1,108 @@
+git init
+
+git config --global user.name "5AF1"
+
+git config --global user.email "safi05af10rashid@gmail.com"
+
+git config --list
+
+q
+
+
+
+clear
+
+
+
+git status
+
+git add /*-file or folder er naam-*/
+
+git add --all
+
+git add . /*-^same-*/
+
+
+
+
+git commit
+
+i
+
+/*-commit message-*/
+
+esc
+
+:x
+
+
+
+git commit -m "/*-commit message-*/"
+
+
+
+git log
+
+git log --oneline
+
+/*-^shows a 7digit commit id-*/
+
+
+
+
+git checkout /*-a past 7digit commit id-*/
+
+git checkout master
+
+/*-^ returns HEAD to master-*/
+
+git branch /*-branch name-*/ /*- 7digit commit id-*/
+
+git checkout -b /*-branch name-*/
+
+/*-^current HEAD position e branch create-*/
+
+git checkout /*-branch name-*/
+
+git branch
+
+/*-^total koyta branch ase-*/
+
+git merge /*-branch name-*/
+
+git branch 
+
+
+
+git diff
+
+/*-^ stage korar age dile change dekhte parbo-*/
+
+q
+
+git show /*- 7digit commit id-*/
+
+git diff /*- 7digit commit id-*/ /*- 7digit commit id-*/
+
+git diff --staged
+
+/*-^any time-*/
+
+
+
+git rm /*-file or folder er naam-*/
+
+git reset HEAD /*-file or folder er naam-*/
+
+git commit -m "/*-commit message-*/"
+
+
+
+
+git clone /*-link-*/ /*-notun naam-*/
+
+git fetch
+
+git pull
+
+
